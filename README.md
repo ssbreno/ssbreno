@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Breno Sobral
-- 👀 I’m interested in TypeScript and JavaScript
-- 🌱 I’m currently learning Next.Js and ReactJs
+# Hey, I'm [Breno Sobral](https://brenosobral.com/) xD
 
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssbreno&show_icons=true&theme=react" />
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbreno&layout=compact&theme=react" />
-</span>
+- Focus in TypeScript and JavaScript
+- Love React, NodeJS and everything that orbits around it
+- Creator of [Firebot](https://firebot.run/)  and [Enemy Monitor](https://monitor.firebot.run/)  for game [Breno Sobral](https://tibia.com/) 
+
