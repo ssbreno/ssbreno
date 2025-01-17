@@ -20,8 +20,4 @@ Senior Software Engineer with 8+ years of experience in full-stack development a
 - Scalable architectures
 - Real-time systems
 
-## 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/breno-sobral)
-- [Email](mailto:ssobralbreno@gmail.com)
-
 Feel free to reach out if you want to collaborate or discuss tech! 🤝
